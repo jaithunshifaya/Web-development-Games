@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 40px;
+  background: #f0f0f0;
+}
+
+#game {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  margin: 20px auto;
+  gap: 5px;
+}
+
+.cell {
+  width: 100px;
+  height: 100px;
+  background: white;
+  font-size: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: 2px solid #333;
+}
+
+.cell:hover {
+  background: #f9f9f9;
+}
+
+#status {
+  font-size: 20px;
+  margin: 15px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
