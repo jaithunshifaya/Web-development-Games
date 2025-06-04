@@ -35,16 +35,17 @@ A collection of simple yet fun web-based games created using **HTML**, **CSS**, 
 
 ## 🚀 How to Run Locally
 
-1. Clone this repository: git clone https://github.com/jaithunshifaya/Web-development-Games.git
-   
+1. Clone this repository:
 
+   git clone https://github.com/jaithunshifaya/Web-development-Games.git
+   
 2. Open any game's folder
 
 3. Open index.html in your browser
 
 No extra installation or setup needed!
 
-Connect with me 
+## Connect with me 
 
 https://www.linkedin.com/in/jaithun-shifaya03/
 https://github.com/jaithunshifaya
