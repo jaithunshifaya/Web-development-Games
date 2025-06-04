@@ -47,7 +47,8 @@ No extra installation or setup needed!
 
 ## Connect with me 
 
-https://www.linkedin.com/in/jaithun-shifaya03/
+https://www.linkedin.com/in/jaithun-shifaya03
+
 https://github.com/jaithunshifaya
 
 Feel free to fork or contribute by improving UI, adding new features, or creating new games!
