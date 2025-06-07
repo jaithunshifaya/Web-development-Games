@@ -29,7 +29,7 @@ A collection of simple yet fun web-based games created using **HTML**, **CSS**, 
 
 - HTML
 - CSS
-- JavaScript (Vanilla)
+- JavaScript 
 
 
 
